@@ -692,7 +692,7 @@
                                     </div>
                                 </div>
                                 <p class="card-text">Proyecto final realizado durante el Curso de Desarrollo Web Fullstack Argentina Programa. Utiliza herramientas como HTML, CSS, JavaScript y Bootstrap.</p>
-                                <a href=""target="_BLANK" class="btn btn-outline-info">Live Demo</a>
+                                <a href="https://myportfoliodaumesestefania.herokuapp.com/"target="_BLANK" class="btn btn-outline-info">Live Demo</a>
                                 <a href="https://github.com/FanyDmes/MyPortfolioDaumesEstefania" target="_BLANK" class="btn btn-outline-secondary">Repositorio</a>
                             </div>
                         </div>
