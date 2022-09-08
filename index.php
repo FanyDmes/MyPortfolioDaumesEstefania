@@ -749,7 +749,7 @@
                     <div class="col-lg-6">
                         <h3 class="text-center">Ingresá tus datos así estamos en contacto.</h3>
                         <hr>
-                        <form action="https://formsubmit.co/48f14f261cdb45cf7a02066cd93437e1" method="POST" class="form">
+                        <form action="https://formsubmit.co/el/hebide" method="POST" class="form">
                             <div class="mb-3">
                                 <label for="contactName" class="form-label fw-bold">* Nombre:</label>
                                 <input id="contactName" name="contactName" type="text" class="form-control" placeholder="Ej: tu mombre " pattern="^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$" title="Utiliza únicamente letras y espacios en blanco." required>
