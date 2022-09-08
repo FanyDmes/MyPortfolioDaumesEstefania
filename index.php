@@ -749,7 +749,7 @@
                     <div class="col-lg-6">
                         <h3 class="text-center">Ingresá tus datos así estamos en contacto.</h3>
                         <hr>
-                        <form action="https://formsubmit.co/f4be33e69b9360fa1f60a9026ba46950" method="POST" class="form">
+                        <form action="https://formsubmit.co/fanydaumes@gmail.com" method="POST" class="form">
                             <div class="mb-3">
                                 <label for="contactName" class="form-label fw-bold">* Nombre:</label>
                                 <input id="contactName" name="contactName" type="text" class="form-control" placeholder="Ej: tu mombre " pattern="^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$" title="Utiliza únicamente letras y espacios en blanco." required>
