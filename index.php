@@ -404,7 +404,7 @@
                         <h2 class="fw-bold">Sobre mí</h2>
                         <span class="edit-icon" data-bs-toggle="modal" data-bs-target="#sectionModal"><i class="bi bi-pencil-square"></i></span>
                         </div>
-                    <p>Hola! Mi nombre es Estefania y me gradué de Argentina Programa, como Full Stuck Develloper Jr y de Codo a Codo 4.0 en el programa de Big Data.<br> Mi objetivo es poder trabajar como Full Stack Develloper y continuar adquiriendo conocimientos, soy muy responsable y dedicada en todo aquello que emprendo, me gustaria formar parte de grandes proyectos que me permitan desarrollarme como profesional y mejorar mis habilidades.</p>
+                    <p>Hola! Mi nombre es Estefania y me gradué de Argentina Programa, como Full Stack Develloper Jr y Data Scientist del programa de Big Data, de Codo a Codo 4.0.<br> Mi objetivo es poder trabajar en el mundo de la Programación y continuar adquiriendo conocimientos. Soy muy responsable y dedicada en todo aquello que emprendo. Me gustaría formar parte de grandes proyectos que me permitan continuar mi desarrollo como profesional y mejorar mis habilidades.</p>
                 </div>
                     <!--Sección Educación/Experiencia-->
                     <div id="professional-info" class="col-lg-8 mt-4">
