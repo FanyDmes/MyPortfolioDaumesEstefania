@@ -404,7 +404,7 @@
                         <h2 class="fw-bold">Sobre mí</h2>
                         <span class="edit-icon" data-bs-toggle="modal" data-bs-target="#sectionModal"><i class="bi bi-pencil-square"></i></span>
                         </div>
-                    <p>Hola! Mi nombre es Estefania y soy una recién graduada de Argentina Programa.<br> Mi objetivo es poder trabajar como Full Stack Develloper y continuar adquiriendo conocimientos, soy muy responsable y dedicada en todo aquello que emprendo, me gustaria formar parte de grandes proyectos que me permitan desarrollarme como profesional y mejorar mis habilidades.</p>
+                    <p>Hola! Mi nombre es Estefania y me gradué de Argentina Programa, como Full Stuck Develloper Jr y de Codo a Codo 4.0 en el programa de Big Data.<br> Mi objetivo es poder trabajar como Full Stack Develloper y continuar adquiriendo conocimientos, soy muy responsable y dedicada en todo aquello que emprendo, me gustaria formar parte de grandes proyectos que me permitan desarrollarme como profesional y mejorar mis habilidades.</p>
                 </div>
                     <!--Sección Educación/Experiencia-->
                     <div id="professional-info" class="col-lg-8 mt-4">
@@ -424,7 +424,7 @@
                                     </div>
                                     <h5>2022</h5>
                                     <p><em>Codo a Codo 4.0</em></p>
-                                    <p>Me encuentro actualmente cursando el Curso de Big Data donde se estudian diversas temáticas, tales como lógica, algoritmos, base de datos, así también como la introducción y utilización del lenguaje python, entre otras actividades.</p>
+                                    <p>Finalicé el Curso de Big Data en el cual pude incorporar diversas temáticas, tales como lógica, algoritmos, base de datos, así también como la introducción y utilización del lenguaje python, entre otras actividades.</p>
                                 </div>
                                 <div class="info-item">
                                     <div class="item-title d-flex justify-content-between align-items-center">
@@ -692,7 +692,7 @@
                                     </div>
                                 </div>
                                 <p class="card-text">Proyecto final realizado durante el Curso de Desarrollo Web Fullstack Argentina Programa. Utiliza herramientas como HTML, CSS, JavaScript y Bootstrap.</p>
-                                <a href="https://myportfoliodaumesestefania.herokuapp.com/"target="_BLANK" class="btn btn-outline-info">Live Demo</a>
+                                <a href="https://myportfoliodaumesestefania-production.up.railway.app/"target="_BLANK" class="btn btn-outline-info">Live Demo</a>
                                 <a href="https://github.com/FanyDmes/MyPortfolioDaumesEstefania" target="_BLANK" class="btn btn-outline-secondary">Repositorio</a>
                             </div>
                         </div>
@@ -710,7 +710,7 @@
                                     </div>
                                 </div>
                                 <p class="card-text">En este proyecto de calculadora utilicé herramientas como HTML, CSS, JavaScript. Permite ejecutar las cuatro operaciones básicas que son: sumar, restar, multiplicar y dividir, adicionalmente incluye un botón para resetear los resultados en caso de querer realizar una nueva operación. target="_BLANK" class="link-info text-decoration-underline">#SelfTaughtDev</a>. </p>
-                                <a href="https://calculatorpink.herokuapp.com/" target="_BLANK" class="btn btn-outline-info">Live Demo</a>
+                                <a href="https://calculadora-responsive-production.up.railway.app/"  target="_BLANK" class="btn btn-outline-info">Live Demo</a>
                                 <a href="https://github.com/FanyDmes/Calculadora-Responsive" target="_BLANK" class="btn btn-outline-secondary">Repositorio</a>
                             </div>
                         </div>
@@ -728,7 +728,7 @@
                                     </div>
                                 </div>
                                 <p class="card-text">En este proyecto de calculadora utilicé herramientas como HTML, CSS, JavaScript. Permite ver la fecha y la hora en tiempo real. target="_BLANK" class="link-info text-decoration-underline">#SelfTaughtDev</a>. </p>
-                                <a href="https://relojanalog.herokuapp.com/" target="_BLANK" class="btn btn-outline-info">Live Demo</a>
+                                <a href="https://reloj-analogico-production.up.railway.app/" target="_BLANK" class="btn btn-outline-info">Live Demo</a>
                                 <a href="https://github.com/FanyDmes/Reloj-Analogico" target="_BLANK" class="btn btn-outline-secondary">Repositorio</a>
                             </div>
                         </div>
