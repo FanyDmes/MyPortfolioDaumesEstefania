@@ -582,6 +582,17 @@
                             <h3 class="mb-3 fw-bold">Back-End</h3>
                             <span class="edit-icon" data-bs-toggle="modal" data-bs-target="#skillPlus"><i class="bi bi-plus-circle"></i></span>
                         </div>
+                         <div class="skill-item">
+                            <div class="item-title d-flex justify-content-between align-items-center">
+                                <span class="fs-5"><i class="bi bi-filetype-py"></i> Python</span>
+                                    <div class="item-buttons">
+                                        <span class="edit-icon" data-bs-toggle="modal" data-bs-target="#skillEdit"><i class="bi bi-pencil-square"></i></span>
+                                        <span class="edit-icon" data-bs-toggle="modal" data-bs-target="#deleteModal"><i class="bi bi-trash3"></i></span>
+                                    </div>
+                                </div>
+                                <div class="progress mb-3" style="height: 20px;">
+                                    <div class="progress-bar bg-info" role="progressbar" style="width: 65%;" aria-valuemin="0" aria-valuenow="30" aria-valuemax="100">40%</div>
+                                </div>
                         <div class="skill-item">
                         <div class="item-title d-flex justify-content-between align-items-center">
                             <span class="fs-5"><i class="fa-brands fa-java"></i> Java/Spring Boot</span>
