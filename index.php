@@ -710,7 +710,7 @@
                                     </div>
                                 </div>
                                 <p class="card-text">En este proyecto de calculadora utilicé herramientas como HTML, CSS, JavaScript. Permite ejecutar las cuatro operaciones básicas que son: sumar, restar, multiplicar y dividir, adicionalmente incluye un botón para resetear los resultados en caso de querer realizar una nueva operación. target="_BLANK" class="link-info text-decoration-underline">#SelfTaughtDev</a>. </p>
-                                <a href="https://calculadora-responsive-production.up.railway.app/"  target="_BLANK" class="btn btn-outline-info">Live Demo</a>
+                                <a href="https://calculadora-responsive-production.up.railway.app/"target="_BLANK" class="btn btn-outline-info">Live Demo</a>
                                 <a href="https://github.com/FanyDmes/Calculadora-Responsive" target="_BLANK" class="btn btn-outline-secondary">Repositorio</a>
                             </div>
                         </div>
@@ -728,7 +728,7 @@
                                     </div>
                                 </div>
                                 <p class="card-text">En este proyecto de calculadora utilicé herramientas como HTML, CSS, JavaScript. Permite ver la fecha y la hora en tiempo real. target="_BLANK" class="link-info text-decoration-underline">#SelfTaughtDev</a>. </p>
-                                <a href="https://reloj-analogico-production.up.railway.app/" target="_BLANK" class="btn btn-outline-info">Live Demo</a>
+                                <a href="https://reloj-analogico-production.up.railway.app/"target="_BLANK" class="btn btn-outline-info">Live Demo</a>
                                 <a href="https://github.com/FanyDmes/Reloj-Analogico" target="_BLANK" class="btn btn-outline-secondary">Repositorio</a>
                             </div>
                         </div>
